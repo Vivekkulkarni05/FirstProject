@@ -1,2 +1,3 @@
 # FirstProject
-This is my Frist Git Reposetory
+This is my First Git Reposetory
+Auther - Vivek Kulkarni
